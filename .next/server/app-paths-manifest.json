@@ -1,0 +1,6 @@
+{
+  "/(root)/page": "app/(root)/page.js",
+  "/(root)/my-banks/page": "app/(root)/my-banks/page.js",
+  "/(root)/payment-transfer/page": "app/(root)/payment-transfer/page.js",
+  "/(root)/transaction-history/page": "app/(root)/transaction-history/page.js"
+}
