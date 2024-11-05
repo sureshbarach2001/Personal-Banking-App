@@ -89,7 +89,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/sureshbarach2001/personal-banking-app.git
-cd banking
+cd personal-banking-app
 ```
 
 **Installation**
